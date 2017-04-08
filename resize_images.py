@@ -3,7 +3,6 @@ import cv2
 import os
 import re
 from shutil import copyfile
-from IPython import embed
 
 
 def resize_with_longer_side(img, sidewidth):
