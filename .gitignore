@@ -1,0 +1,6 @@
+*.mat
+*.caffemodel
+*.prototxt
+*.prototxt.lua
+.DS_Store
+*.so
